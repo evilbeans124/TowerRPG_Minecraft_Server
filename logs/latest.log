@@ -1,0 +1,86 @@
+[22:08:32] [Server thread/INFO]: Starting minecraft server version 1.8.7
+[22:08:32] [Server thread/INFO]: Loading properties
+[22:08:32] [Server thread/INFO]: Default game type: SURVIVAL
+[22:08:32] [Server thread/INFO]: Generating keypair
+[22:08:32] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:08:32] [Server thread/INFO]: Using default channel type
+[22:08:32] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-e91aed8 (MC: 1.8.7) (Implementing API version 1.8.7-R0.1-SNAPSHOT)
+[22:08:33] [Server thread/WARN]: Failed to load user banlist: 
+java.io.FileNotFoundException: banned-players.json (No such file or directory)
+	at java.io.FileInputStream.open(Native Method) ~[?:1.8.0_25]
+	at java.io.FileInputStream.<init>(FileInputStream.java:138) ~[?:1.8.0_25]
+	at com.google.common.io.Files.newReader(Files.java:86) ~[craftbukkit.jar:git-Bukkit-e91aed8]
+	at net.minecraft.server.v1_8_R3.JsonList.load(JsonList.java:171) ~[craftbukkit.jar:git-Bukkit-e91aed8]
+	at net.minecraft.server.v1_8_R3.DedicatedPlayerList.z(SourceFile:99) [craftbukkit.jar:git-Bukkit-e91aed8]
+	at net.minecraft.server.v1_8_R3.DedicatedPlayerList.<init>(SourceFile:25) [craftbukkit.jar:git-Bukkit-e91aed8]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:179) [craftbukkit.jar:git-Bukkit-e91aed8]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:507) [craftbukkit.jar:git-Bukkit-e91aed8]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_25]
+[22:08:33] [Server thread/WARN]: Failed to load ip banlist: 
+java.io.FileNotFoundException: banned-ips.json (No such file or directory)
+	at java.io.FileInputStream.open(Native Method) ~[?:1.8.0_25]
+	at java.io.FileInputStream.<init>(FileInputStream.java:138) ~[?:1.8.0_25]
+	at com.google.common.io.Files.newReader(Files.java:86) ~[craftbukkit.jar:git-Bukkit-e91aed8]
+	at net.minecraft.server.v1_8_R3.JsonList.load(JsonList.java:171) ~[craftbukkit.jar:git-Bukkit-e91aed8]
+	at net.minecraft.server.v1_8_R3.DedicatedPlayerList.y(SourceFile:91) [craftbukkit.jar:git-Bukkit-e91aed8]
+	at net.minecraft.server.v1_8_R3.DedicatedPlayerList.<init>(SourceFile:27) [craftbukkit.jar:git-Bukkit-e91aed8]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:179) [craftbukkit.jar:git-Bukkit-e91aed8]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:507) [craftbukkit.jar:git-Bukkit-e91aed8]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_25]
+[22:08:33] [Server thread/WARN]: Failed to load operators list: 
+java.io.FileNotFoundException: ops.json (No such file or directory)
+	at java.io.FileInputStream.open(Native Method) ~[?:1.8.0_25]
+	at java.io.FileInputStream.<init>(FileInputStream.java:138) ~[?:1.8.0_25]
+	at com.google.common.io.Files.newReader(Files.java:86) ~[craftbukkit.jar:git-Bukkit-e91aed8]
+	at net.minecraft.server.v1_8_R3.JsonList.load(JsonList.java:171) ~[craftbukkit.jar:git-Bukkit-e91aed8]
+	at net.minecraft.server.v1_8_R3.DedicatedPlayerList.A(SourceFile:107) [craftbukkit.jar:git-Bukkit-e91aed8]
+	at net.minecraft.server.v1_8_R3.DedicatedPlayerList.<init>(SourceFile:29) [craftbukkit.jar:git-Bukkit-e91aed8]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:179) [craftbukkit.jar:git-Bukkit-e91aed8]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:507) [craftbukkit.jar:git-Bukkit-e91aed8]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_25]
+[22:08:33] [Server thread/WARN]: Failed to load white-list: 
+java.io.FileNotFoundException: whitelist.json (No such file or directory)
+	at java.io.FileInputStream.open(Native Method) ~[?:1.8.0_25]
+	at java.io.FileInputStream.<init>(FileInputStream.java:138) ~[?:1.8.0_25]
+	at com.google.common.io.Files.newReader(Files.java:86) ~[craftbukkit.jar:git-Bukkit-e91aed8]
+	at net.minecraft.server.v1_8_R3.JsonList.load(JsonList.java:171) ~[craftbukkit.jar:git-Bukkit-e91aed8]
+	at net.minecraft.server.v1_8_R3.DedicatedPlayerList.C(SourceFile:123) [craftbukkit.jar:git-Bukkit-e91aed8]
+	at net.minecraft.server.v1_8_R3.DedicatedPlayerList.<init>(SourceFile:30) [craftbukkit.jar:git-Bukkit-e91aed8]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:179) [craftbukkit.jar:git-Bukkit-e91aed8]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:507) [craftbukkit.jar:git-Bukkit-e91aed8]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_25]
+[22:08:33] [Server thread/INFO]: Preparing level "world"
+[22:08:33] [Server thread/INFO]: Preparing start region for level 0 (Seed: 4725346100942917992)
+[22:08:34] [Server thread/INFO]: Preparing spawn area: 5%
+[22:08:35] [Server thread/INFO]: Preparing spawn area: 11%
+[22:08:36] [Server thread/INFO]: Preparing spawn area: 15%
+[22:08:37] [Server thread/INFO]: Preparing spawn area: 23%
+[22:08:38] [Server thread/INFO]: Preparing spawn area: 33%
+[22:08:39] [Server thread/INFO]: Preparing spawn area: 41%
+[22:08:40] [Server thread/INFO]: Preparing spawn area: 48%
+[22:08:41] [Server thread/INFO]: Preparing spawn area: 55%
+[22:08:42] [Server thread/INFO]: Preparing spawn area: 61%
+[22:08:43] [Server thread/INFO]: Preparing spawn area: 70%
+[22:08:44] [Server thread/INFO]: Preparing spawn area: 78%
+[22:08:45] [Server thread/INFO]: Preparing spawn area: 88%
+[22:08:46] [Server thread/INFO]: Preparing spawn area: 99%
+[22:08:46] [Server thread/INFO]: Preparing start region for level 1 (Seed: 4725346100942917992)
+[22:08:47] [Server thread/INFO]: Preparing spawn area: 16%
+[22:08:48] [Server thread/INFO]: Preparing spawn area: 30%
+[22:08:49] [Server thread/INFO]: Preparing spawn area: 47%
+[22:08:50] [Server thread/INFO]: Preparing spawn area: 59%
+[22:08:51] [Server thread/INFO]: Preparing spawn area: 71%
+[22:08:52] [Server thread/INFO]: Preparing spawn area: 81%
+[22:08:54] [Server thread/INFO]: Preparing spawn area: 89%
+[22:08:54] [Server thread/INFO]: Preparing start region for level 2 (Seed: 4725346100942917992)
+[22:08:55] [Server thread/INFO]: Preparing spawn area: 16%
+[22:08:56] [Server thread/INFO]: Preparing spawn area: 51%
+[22:08:57] [Server thread/INFO]: Preparing spawn area: 86%
+[22:08:58] [Server thread/INFO]: Done (24.879s)! For help, type "help" or "?"
+[22:09:31] [Server thread/INFO]: Stopping the server
+[22:09:31] [Server thread/INFO]: Stopping server
+[22:09:31] [Server thread/INFO]: Saving players
+[22:09:31] [Server thread/INFO]: Saving worlds
+[22:09:31] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[22:09:32] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[22:09:32] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
