@@ -1,0 +1,51 @@
+Statistics:
+  Strength: Every 5 Strength = With anything other than a SWORD, You attack half a heart more.
+  Stamina: Every 5 Stamina = You gain half a heart.
+  Dexterity: Every 5 Dexterity = With a BOW ONLY, you attack half a heart more. (1/5 percent chance it will deal 10% more damage)
+  
+Leveling:
+  You start out with:
+    0 Stamina: (actually 20)
+    0 Strength: (actually 5)
+    0 Dexterity: (actually 9)
+    
+  For every level you increase:
+    Strength += 5
+    Stamina += 5
+    Dexterity += 5
+Rarities and their stats: //total percentage of getting a loot: 20%
+  Common:
+    Color: White
+    Stats:
+      Helmet: 100% of Protection, 100% of Dodge, 100% of Reflect Damage, 1-3 common-rating statistics
+      Chestplate: 100% of Protection, 100% of Dodge, 100% of Reflect Damage, 1-3 common-rating statistics
+      Leggings: 100% of Protection, 100% of Dodge, 100% of Reflect Damage, 1-3 common-rating statistics
+      Boots: 100% of Protection, 100% of Dodge, 100% of Reflect Damage, 1-3 common-rating statistics
+      Sword: 100% of Sharpness, 100% of Fire Chance, 100% of Fire Damage, 100% of critical strike cahance, 100% of critical strike damage, 1-3 common-rating statistics
+      Bow: 100% of Power, 100% of Flame Chance, 100% of Flame Damage, Infinity 1, 1-3 common-rating statistics
+    Drop Rate Percentage: 12.5%
+  Uncommon:
+    Color: Green
+    Stats:
+      Same as before but everything is 135% and 2-4 Common or Uncommon rating statistics.
+    Drop Rate Percentage: 5%
+  Rare:
+    Color: Blue
+    Stats:
+      Same as before but everything is 180% and 3-5 Uncommon or Rare rating statisitics.
+    Drop Rate Percentage: 1.5%
+  Epic:
+    Color: Purple
+    Stats:
+      Same as before but everything is 225% and 4-6 Rare or Epic rating statistics.
+    Drop Rate Percentage: 0.7%
+  Legendary:
+    Color: Orange
+    Stats:
+      Same as before but everything is 300% and 5-7 Epic or Legendary rating statistics. 1 additional special Legendary-only 
+    Drop Rate Percentage: 0.29999%
+  Mythic:
+    Color: Red
+    Stats:
+      Same as before but everything is 500% and 8-10 Mythic rating statistics. 2 additional Mythic Legendary-only
+    Drop Rate Percentage: 0.00001%
