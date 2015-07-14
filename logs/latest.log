@@ -1,189 +1,51 @@
-[17:53:03] [Server thread/INFO]: Starting minecraft server version 1.8.7
-[17:53:03] [Server thread/INFO]: Loading properties
-[17:53:03] [Server thread/INFO]: Default game type: SURVIVAL
-[17:53:03] [Server thread/INFO]: Generating keypair
-[17:53:03] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:53:03] [Server thread/INFO]: Using default channel type
-[17:53:04] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-e91aed8 (MC: 1.8.7) (Implementing API version 1.8.7-R0.1-SNAPSHOT)
-[17:53:04] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
-[17:53:04] [Server thread/INFO]: [TowerRPG] Loading TowerRPG v1.0
-[17:53:04] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
-[17:53:04] [Server thread/INFO]: Preparing level "world"
-[17:53:04] [Server thread/INFO]: Preparing start region for level 0 (Seed: 4725346100942917992)
-[17:53:05] [Server thread/INFO]: Preparing spawn area: 62%
-[17:53:05] [Server thread/INFO]: Preparing start region for level 1 (Seed: 4725346100942917992)
-[17:53:06] [Server thread/INFO]: Preparing start region for level 2 (Seed: 4725346100942917992)
-[17:53:06] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
-[17:53:07] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[17:53:07] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
-[17:53:07] [Server thread/INFO]: [TowerRPG] Enabling TowerRPG v1.0
-[17:53:07] [Server thread/INFO]: [TowerRPG] TowerRPG has successfully been enabled!
-[17:53:07] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
-[17:53:08] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
-[17:53:08] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
-[17:53:08] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
-[17:53:08] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
-[17:53:08] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
-[17:53:08] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
-[17:53:08] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
-[17:53:08] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is blocked.
-[17:53:08] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
-[17:53:08] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
-[17:53:08] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
-[17:53:08] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
-[17:53:08] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is blocked.
-[17:53:08] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
-[17:53:08] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
-[17:53:08] [Server thread/INFO]: [WorldGuard] Loading region data...
-[17:53:08] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[17:53:08] [Server thread/INFO]: Done (4.245s)! For help, type "help" or "?"
-[17:53:08] [Server thread/INFO]: [TowerRPG] 2.0/6.0
-[17:53:15] [Server thread/INFO]: [TowerRPG] 10.0/10.0
-[17:53:20] [Server thread/INFO]: [TowerRPG] 20.0/20.0
-[17:54:03] [User Authenticator #1/INFO]: UUID of player MichaelRockfez is 197c00cd-c205-48da-b02b-367d3f07469d
-[17:54:04] [Server thread/INFO]: MichaelRockfez[/192.168.219.212:59602] logged in with entity id 332 at ([world]94.88990245299362, 71.0, 356.2196046802597)
-[17:54:15] [Server thread/INFO]: [TowerRPG] 20.0/20.0
-[17:54:16] [Server thread/INFO]: [TowerRPG] 19.079999923706055/20.0
-[17:54:16] [Server thread/INFO]: [TowerRPG] 18.15999984741211/20.0
-[17:54:17] [Server thread/INFO]: [TowerRPG] 17.239999771118164/20.0
-[17:54:23] [Server thread/INFO]: [TowerRPG] 16.31999969482422/20.0
-[17:54:23] [Server thread/INFO]: [TowerRPG] 15.399999618530273/20.0
-[17:54:24] [Server thread/INFO]: [TowerRPG] 14.479999542236328/20.0
-[17:54:25] [Server thread/INFO]: [TowerRPG] 13.559999465942383/20.0
-[17:54:25] [Server thread/INFO]: [TowerRPG] 12.639999389648438/20.0
-[17:54:30] [Server thread/INFO]: [TowerRPG] 20.0/20.0
-[17:54:30] [Server thread/INFO]: [TowerRPG] 20.0/20.0
-[17:54:31] [Server thread/INFO]: [TowerRPG] 19.0/20.0
-[17:54:31] [Server thread/INFO]: [TowerRPG] 19.0/20.0
-[17:54:32] [Server thread/INFO]: [TowerRPG] 18.0/20.0
-[17:54:32] [Server thread/INFO]: [TowerRPG] 18.0/20.0
-[17:54:32] [Server thread/INFO]: [TowerRPG] 20.0/20.0
-[17:54:33] [Server thread/INFO]: [TowerRPG] 17.0/20.0
-[17:54:33] [Server thread/INFO]: [TowerRPG] 17.0/20.0
-[17:54:33] [Server thread/INFO]: [TowerRPG] 19.0/20.0
-[17:54:33] [Server thread/INFO]: [TowerRPG] 20.0/20.0
-[17:54:34] [Server thread/INFO]: [TowerRPG] 16.0/20.0
-[17:54:34] [Server thread/INFO]: [TowerRPG] 16.0/20.0
-[17:54:34] [Server thread/INFO]: [TowerRPG] 18.0/20.0
-[17:54:34] [Server thread/INFO]: [TowerRPG] 20.0/20.0
-[17:54:34] [Server thread/INFO]: MichaelRockfez issued server command: /time set night
-[17:54:34] [Server thread/INFO]: [MichaelRockfez: Set the time to 13000]
-[17:54:35] [Server thread/INFO]: [TowerRPG] 19.0/20.0
-[17:54:35] [Server thread/INFO]: [TowerRPG] 15.0/20.0
-[17:54:35] [Server thread/INFO]: [TowerRPG] 15.0/20.0
-[17:54:35] [Server thread/INFO]: [TowerRPG] 17.0/20.0
-[17:54:35] [Server thread/INFO]: [TowerRPG] 19.0/20.0
-[17:54:36] [Server thread/INFO]: [TowerRPG] 18.0/20.0
-[17:54:36] [Server thread/INFO]: [TowerRPG] 14.0/20.0
-[17:54:36] [Server thread/INFO]: [TowerRPG] 14.0/20.0
-[17:54:36] [Server thread/INFO]: [TowerRPG] 16.0/20.0
-[17:54:36] [Server thread/INFO]: [TowerRPG] 18.0/20.0
-[17:54:36] [Server thread/INFO]: [TowerRPG] 17.0/20.0
-[17:54:37] [Server thread/INFO]: [TowerRPG] 10.0/10.0
-[17:54:37] [Server thread/INFO]: [TowerRPG] 13.0/20.0
-[17:54:37] [Server thread/INFO]: [TowerRPG] 13.0/20.0
-[17:54:37] [Server thread/INFO]: [TowerRPG] 15.0/20.0
-[17:54:37] [Server thread/INFO]: [TowerRPG] 20.0/20.0
-[17:54:37] [Server thread/INFO]: [TowerRPG] 17.0/20.0
-[17:54:37] [Server thread/INFO]: [TowerRPG] 16.0/20.0
-[17:54:38] [Server thread/INFO]: [TowerRPG] 12.0/20.0
-[17:54:38] [Server thread/INFO]: [TowerRPG] 14.0/20.0
-[17:54:38] [Server thread/INFO]: [TowerRPG] 16.0/20.0
-[17:54:38] [Server thread/INFO]: [TowerRPG] 15.0/20.0
-[17:54:39] [Server thread/INFO]: [TowerRPG] 13.0/20.0
-[17:54:39] [Server thread/INFO]: [TowerRPG] 15.0/20.0
-[17:54:39] [Server thread/INFO]: [TowerRPG] 14.0/20.0
-[17:54:40] [Server thread/INFO]: [TowerRPG] 14.0/20.0
-[17:54:40] [Server thread/INFO]: [TowerRPG] 13.0/20.0
-[17:54:41] [Server thread/INFO]: [TowerRPG] 13.0/20.0
-[17:55:09] [Server thread/INFO]: [TowerRPG] 11.720000267028809/20.0
-[17:55:13] [Server thread/INFO]: [TowerRPG] 3.440000534057617/20.0
-[17:55:14] [Server thread/INFO]: [TowerRPG] 2.520000457763672/20.0
-[17:55:14] [Server thread/INFO]: [TowerRPG] 2.060000419616699/20.0
-[17:55:15] [Server thread/INFO]: [TowerRPG] 1.140000343322754/20.0
-[17:55:15] [Server thread/INFO]: [TowerRPG] 0.22000032663345337/20.0
-[17:55:26] [Server thread/INFO]: [TowerRPG] 16.0/16.0
-[17:55:28] [Server thread/INFO]: [TowerRPG] 7.0/16.0
-[17:55:31] [Server thread/INFO]: [TowerRPG] 6.0/16.0
-[17:55:33] [Server thread/INFO]: [TowerRPG] 5.0/16.0
-[17:55:35] [Server thread/INFO]: [TowerRPG] 4.0/16.0
-[17:55:35] [Server thread/INFO]: [TowerRPG] 3.0/16.0
-[17:55:44] [Server thread/INFO]: [TowerRPG] 20.0/20.0
-[17:55:46] [Server thread/INFO]: [TowerRPG] 19.0/20.0
-[17:55:47] [Server thread/INFO]: [TowerRPG] 18.0/20.0
-[17:55:51] [Server thread/INFO]: [TowerRPG] 17.0/20.0
-[17:55:52] [Server thread/INFO]: [TowerRPG] 8.0/20.0
-[17:55:58] [Server thread/INFO]: [TowerRPG] 6.0/6.0
-[17:55:58] [Server thread/INFO]: [TowerRPG] 5.0/6.0
-[17:55:58] [Server thread/INFO]: [TowerRPG] 7.0/20.0
-[17:55:59] [Server thread/INFO]: [TowerRPG] 2.0/6.0
-[17:55:59] [Server thread/INFO]: [TowerRPG] 1.0/6.0
-[17:56:15] [Server thread/INFO]: CONSOLE: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
-[17:56:15] [Server thread/INFO]: CONSOLE: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
-[17:56:15] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1
-[17:56:15] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
-[17:56:15] [Server thread/INFO]: [TowerRPG] Disabling TowerRPG v1.0
-[17:56:15] [Server thread/INFO]: [TowerRPG] TowerRPG has successfully been disabled!
-[17:56:15] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
-[17:56:15] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
-[17:56:15] [Server thread/INFO]: [TowerRPG] Loading TowerRPG v1.0
-[17:56:15] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
-[17:56:16] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
-[17:56:17] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[17:56:18] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
-[17:56:18] [Server thread/INFO]: [TowerRPG] Enabling TowerRPG v1.0
-[17:56:18] [Server thread/INFO]: [TowerRPG] TowerRPG has successfully been enabled!
-[17:56:18] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
-[17:56:18] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
-[17:56:18] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
-[17:56:18] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
-[17:56:18] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
-[17:56:18] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
-[17:56:18] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
-[17:56:18] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
-[17:56:18] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is blocked.
-[17:56:18] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
-[17:56:18] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
-[17:56:18] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
-[17:56:18] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
-[17:56:18] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is blocked.
-[17:56:18] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
-[17:56:18] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
-[17:56:18] [Server thread/INFO]: [WorldGuard] Loading region data...
-[17:56:18] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[17:56:19] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m
-[17:56:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3398ms behind, skipping 67 tick(s)
-[17:56:31] [Server thread/INFO]: [TowerRPG] 20.0/20.0
-[17:56:33] [Server thread/INFO]: [TowerRPG] 20.0/20.0
-[17:56:44] [Server thread/INFO]: [TowerRPG] 20.0/20.0
-[17:56:49] [Server thread/INFO]: [TowerRPG] 20.0/20.0
-[17:56:50] [Server thread/INFO]: [TowerRPG] 10.0/10.0
-[17:56:55] [Server thread/INFO]: [TowerRPG] 10.0/10.0
-[17:56:56] [Server thread/INFO]: [TowerRPG] 20.0/20.0
-[17:57:01] [Server thread/INFO]: [TowerRPG] 20.0/20.0
-[17:57:02] [Server thread/INFO]: [TowerRPG] 10.0/10.0
-[17:57:03] [Server thread/INFO]: [TowerRPG] 20.0/20.0
-[17:57:10] [Server thread/INFO]: [TowerRPG] 8.0/8.0
-[17:57:13] [Server thread/INFO]: [TowerRPG] 9.0/10.0
-[17:57:22] [Server thread/INFO]: [TowerRPG] 10.0/10.0
-[17:57:23] [Server thread/INFO]: [TowerRPG] 10.0/10.0
-[17:57:31] [Server thread/INFO]: [TowerRPG] 6.0/6.0
-[17:57:35] [Server thread/INFO]: [TowerRPG] 6.0/6.0
-[17:57:45] [Server thread/INFO]: [TowerRPG] 6.0/6.0
-[17:57:46] [Server thread/INFO]: [TowerRPG] 5.0/6.0
-[17:57:47] [Server thread/INFO]: [TowerRPG] 4.0/6.0
-[17:58:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2437ms behind, skipping 48 tick(s)
-[17:58:13] [Server thread/INFO]: MichaelRockfez lost connection: Disconnected
-[17:58:13] [Server thread/INFO]: MichaelRockfez left the game.
-[17:58:16] [Server thread/INFO]: Stopping the server
-[17:58:16] [Server thread/INFO]: Stopping server
-[17:58:16] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1
-[17:58:16] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
-[17:58:16] [Server thread/INFO]: [TowerRPG] Disabling TowerRPG v1.0
-[17:58:16] [Server thread/INFO]: [TowerRPG] TowerRPG has successfully been disabled!
-[17:58:16] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
-[17:58:16] [Server thread/INFO]: Saving players
-[17:58:16] [Server thread/INFO]: Saving worlds
-[17:58:16] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[17:58:17] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
-[17:58:17] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
+[18:25:28] [Server thread/INFO]: Starting minecraft server version 1.8.7
+[18:25:28] [Server thread/INFO]: Loading properties
+[18:25:28] [Server thread/INFO]: Default game type: SURVIVAL
+[18:25:28] [Server thread/INFO]: Generating keypair
+[18:25:28] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:25:28] [Server thread/INFO]: Using default channel type
+[18:25:29] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-e91aed8 (MC: 1.8.7) (Implementing API version 1.8.7-R0.1-SNAPSHOT)
+[18:25:29] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[18:25:29] [Server thread/INFO]: [TowerRPG] Loading TowerRPG v1.0
+[18:25:29] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
+[18:25:29] [Server thread/INFO]: Preparing level "world"
+[18:25:29] [Server thread/INFO]: Preparing start region for level 0 (Seed: 4725346100942917992)
+[18:25:30] [Server thread/INFO]: Preparing spawn area: 39%
+[18:25:30] [Server thread/INFO]: Preparing start region for level 1 (Seed: 4725346100942917992)
+[18:25:31] [Server thread/INFO]: Preparing start region for level 2 (Seed: 4725346100942917992)
+[18:25:31] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[18:25:31] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[18:25:31] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[18:25:31] [Server thread/INFO]: [TowerRPG] Enabling TowerRPG v1.0
+[18:25:31] [Server thread/INFO]: [TowerRPG] TowerRPG has successfully been enabled!
+[18:25:32] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
+[18:25:32] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[18:25:32] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[18:25:32] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
+[18:25:32] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[18:25:32] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[18:25:32] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[18:25:32] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[18:25:32] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is blocked.
+[18:25:32] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[18:25:32] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[18:25:32] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[18:25:32] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[18:25:32] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is blocked.
+[18:25:32] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[18:25:32] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[18:25:32] [Server thread/INFO]: [WorldGuard] Loading region data...
+[18:25:33] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:25:33] [Server thread/INFO]: Done (3.957s)! For help, type "help" or "?"
+[18:25:37] [Server thread/INFO]: Stopping the server
+[18:25:37] [Server thread/INFO]: Stopping server
+[18:25:37] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1
+[18:25:37] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[18:25:37] [Server thread/INFO]: [TowerRPG] Disabling TowerRPG v1.0
+[18:25:37] [Server thread/INFO]: [TowerRPG] TowerRPG has successfully been disabled!
+[18:25:37] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[18:25:37] [Server thread/INFO]: Saving players
+[18:25:37] [Server thread/INFO]: Saving worlds
+[18:25:37] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[18:25:38] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[18:25:39] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
