@@ -1,16 +1,16 @@
 Statistics:
   Strength: Every 5 Strength = With anything other than a SWORD, You attack half a heart more.
   Stamina: Every 5 Stamina = You gain half a heart.
-  Dexterity: Every 5 Dexterity = With a BOW ONLY, you attack half a heart more. (1/5 percent chance it will deal 10% more damage)
+  Agility: Every 5 Agility = With a BOW ONLY, you attack half a heart more. (1/5 percent chance it will deal 10% more damage)
 Leveling:
   You start out with:
     0 Stamina: (actually 20)
     0 Strength: (actually 5)
-    0 Dexterity: (actually 9)
+    0 Agility: (actually 9)
   For every level you increase:
     Strength += 5
     Stamina += 5
-    Dexterity += 5
+    Agility += 5
   Kit leveling (non donators), determine Armor later:
     1. Wooden Axe
     2. Wooden Spade, Sharpness I
@@ -55,4 +55,3 @@ Rarities and their stats: //total percentage of getting a loot: 20%
     Stats:
       Same as before but everything is 500% and 8-10 Mythic rating statistics. 2 additional Mythic Legendary-only
     Drop Rate Percentage: 0.00001%
-Ki
