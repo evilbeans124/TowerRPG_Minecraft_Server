@@ -1,1 +1,3 @@
-# TowerRPG_Minecraft_Server
+# TowerRPG Minecraft Server
+
+A Minecraft server with customly built RPG plugins.
